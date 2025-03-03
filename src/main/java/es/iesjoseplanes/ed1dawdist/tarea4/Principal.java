@@ -1,5 +1,10 @@
 package es.iesjoseplanes.ed1dawdist.tarea4;
 
+/**
+ * 
+ * @author Ana Díaz Contra
+ * @version 1.0
+ */
 public class Principal {
 
     public static void main(String[] args) {
